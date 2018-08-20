@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    border-style: double;
+    margin: 0;
+    padding: 25px;
+    font-size: 40px;
+}
+
+.container {
+    width: 40%;
+    height: 300px;
+    margin: 0 auto;
+    border-style: double;
+    margin-top: 20px;
+}
+
+.albumcover {
+    width: 200px;
+    height: 200px;
+    float: left;
+    padding: 50px;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+.albumbio {
+    width: 350px;
+    height: 210px;
+    float: right;
+    padding: 0;
+    margin: 40px 20px 40px 20px;
+    border-style: double;
+}
